@@ -33,9 +33,7 @@ After launching, there's a possibility your PC might not have the .Net 6.0 Frame
 Also, incase you some buttons fail to run, it might be because Python is not installed in your computer. Please consider installing if you encounter this issue, as the app requires python to run.
 
 ## Conclusion
-
-I created this app as part of my Software Engineering class 💯 and I hope it will help any learner out there to see the visual implementation of the Stack ADT.
-If you encounter any errors feel free to write an issue on this repository, I will check it out.
+If you encounter any errors feel free to write an issue on this repository, we may check it out.
 
 Videos
 
